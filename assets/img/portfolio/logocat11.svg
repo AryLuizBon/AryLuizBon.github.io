@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="123.43423mm"
+   height="92.286743mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logocat11.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1018">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1014" />
+      <stop
+         id="stop1022"
+         offset="0.40975502"
+         style="stop-color:#969696;stop-opacity:0.65053761" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop1016" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3806">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1;"
+         offset="0"
+         id="stop3808" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:0;"
+         offset="1"
+         id="stop3810" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="90.897785 : 742.75654 : 1"
+       inkscape:vp_y="0 : 585.52114 : 0"
+       inkscape:vp_z="534.49458 : 715.63453 : 1"
+       inkscape:persp3d-origin="352.81415 : 614.0679 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3623"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3623-3"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3654"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3676"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3676-0"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3709"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3737"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3760"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3782"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7606"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7929"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7929-5"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7929-3"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7969"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3715"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3715-8"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3715-0"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2974"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2974-6"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2974-3"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2974-0"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2974-66"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2974-5"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2974-8"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2974-4"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3067"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3095"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3147"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3199"
+       inkscape:persp3d-origin="0.53333333 : 0.35555555 : 1"
+       inkscape:vp_z="1.0666667 : 0.53333333 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_x="0 : 0.53333333 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1018"
+       id="linearGradient1020"
+       x1="106.60807"
+       y1="187.06674"
+       x2="106.60807"
+       y2="-43.913322"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-12)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1435"
+       id="linearGradient1437"
+       x1="362.17731"
+       y1="132.80997"
+       x2="434.38803"
+       y2="132.80997"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1435">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1431" />
+      <stop
+         id="stop1439"
+         offset="0.53476781"
+         style="stop-color:#ff00ff;stop-opacity:0.99462366" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0.99462366"
+         offset="1"
+         id="stop1433" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(72.210729,1.8270996e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient1473"
+       id="linearGradient1437-5"
+       x1="362.17731"
+       y1="132.80997"
+       x2="434.38803"
+       y2="132.80997"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient1473"
+       inkscape:collect="always">
+      <stop
+         id="stop1467"
+         offset="0"
+         style="stop-color:#0000ff;stop-opacity:1" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:0.99607843"
+         offset="0.53476781"
+         id="stop1469" />
+      <stop
+         id="stop1471"
+         offset="1"
+         style="stop-color:#00ff00;stop-opacity:0.99607843" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(144.42142,1.8270996e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient1493"
+       id="linearGradient1437-1"
+       x1="362.17731"
+       y1="132.80997"
+       x2="434.38803"
+       y2="132.80997"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient1493"
+       inkscape:collect="always">
+      <stop
+         id="stop1487"
+         offset="0"
+         style="stop-color:#00ff00;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0.99607843"
+         offset="0.53476781"
+         id="stop1489" />
+      <stop
+         id="stop1491"
+         offset="1"
+         style="stop-color:#ff0500;stop-opacity:0.99607843" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(216.63217,-8.4733594e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient1513"
+       id="linearGradient1437-2"
+       x1="362.17731"
+       y1="132.80997"
+       x2="434.38803"
+       y2="132.80997"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient1513"
+       inkscape:collect="always">
+      <stop
+         id="stop1507"
+         offset="0"
+         style="stop-color:#ff0000;stop-opacity:1" />
+      <stop
+         style="stop-color:#ff0091;stop-opacity:0.99607843"
+         offset="0.53476781"
+         id="stop1509" />
+      <stop
+         id="stop1511"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0.99607843" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2799616"
+     inkscape:cx="353.33124"
+     inkscape:cy="169.85154"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1564"
+     inkscape:window-height="872"
+     inkscape:window-x="36"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       orientation="1,0"
+       position="377.65461,143.69027"
+       id="guide3723"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="396.23094,100.84901"
+       id="guide3725"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="534.60538,108.48327"
+       id="guide7986"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="531.97308,42.017732"
+       id="guide7992"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="164.10942,58.140572"
+       id="guide2950"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="190.76144,49.585612"
+       id="guide2952"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="217.41346,42.017732"
+       id="guide2954"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="244.06547,130.52877"
+       id="guide2956"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="270.7175,135.13529"
+       id="guide2958"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="297.36952,139.74182"
+       id="guide2960"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="324.02153,139.41277"
+       id="guide2962"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="350.67355,137.43855"
+       id="guide2964"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="403.97759,134.80626"
+       id="guide3024"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="430.6296,132.17396"
+       id="guide3026"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="458.92681,34.449892"
+       id="guide3055"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="422.01239,55.376662"
+       id="guide3057"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="20.979744,8.8774818"
+       orientation="1,0"
+       id="guide1024"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Camada 2"
+     transform="translate(137.4574,53.250286)">
+    <g
+       transform="matrix(1.6151445,0,0,0.98436037,-722.42609,-10.977645)"
+       style="display:inline"
+       id="g1519">
+      <rect
+         y="-42.031559"
+         x="362.17731"
+         height="349.68304"
+         width="72.210732"
+         id="rect1429"
+         style="opacity:1;fill:url(#linearGradient1437);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         y="-42.031559"
+         x="434.38803"
+         height="349.68304"
+         width="72.210732"
+         id="rect1429-7"
+         style="display:inline;opacity:1;fill:url(#linearGradient1437-5);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         y="-42.031559"
+         x="506.59875"
+         height="349.68304"
+         width="72.210732"
+         id="rect1429-2"
+         style="display:inline;opacity:1;fill:url(#linearGradient1437-1);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         y="-42.031567"
+         x="578.80951"
+         height="349.68304"
+         width="72.210732"
+         id="rect1429-6"
+         style="display:inline;opacity:1;fill:url(#linearGradient1437-2);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(137.4574,53.250286)">
+    <rect
+       style="opacity:1;fill:url(#linearGradient1020);fill-opacity:1;stroke:none;stroke-width:31.94313622;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1012"
+       width="465.06705"
+       height="348.80029"
+       x="-136.4845"
+       y="-53.250286" />
+    <rect
+       style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       id="rect7997"
+       width="193.41782"
+       height="45.998825"
+       x="45.248035"
+       y="196.8343"
+       inkscape:export-filename="/home/ary/Documentos/Consultoria/ITG_CAT/SITE/4_col_web_site_design/images/logo003.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       d="m 18.466667,179.6 v 81.1 H 310.26667 v -81.1 z m 25.3,17.23333 H 240.8 V 245.8 H 43.766667 Z"
+       id="rect7914"
+       inkscape:export-filename="/home/ary/Documentos/Consultoria/ITG_CAT/SITE/4_col_web_site_design/images/logo003.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       d="m 28.496083,194.70097 v 53.66667 H 238.69609 v -53.66667 z m 185.133337,6.9 h 6.4 v 8.86667 h 3.83333 v 5.8 h -3.83333 v 20.8 h -6.4 v -20.8 h -3.1 v -5.8 h 3.1 z m -107.13333,3.8 c 4.16664,3e-5 7.92497,0.75837 11.3,2.3 v 6.43333 c -3.43059,-1.9583 -6.87502,-2.93331 -10.33334,-2.93333 -3.20835,2e-5 -5.67779,0.90836 -7.4,2.7 -1.72224,1.7778 -2.56668,4.31391 -2.56666,7.63333 -2e-5,3.2778 0.81387,5.82779 2.46666,7.63334 1.65276,1.79167 4.03609,2.7 7.13334,2.7 1.73608,0 3.13608,-0.23611 4.23333,-0.66667 v -6.03333 h -4.9 v -5.36667 h 12.5 v 14.96667 c -4.01392,1.94445 -8.28336,2.9 -12.86667,2.9 -5.20835,0 -9.31945,-1.42501 -12.33333,-4.3 -3.0139,-2.88889 -4.533339,-6.84721 -4.533337,-11.83334 -2e-6,-5.05553 1.530547,-8.98609 4.600007,-11.83333 3.08331,-2.86108 7.32498,-4.29997 12.7,-4.3 z m -60.500007,0.56667 h 8 v 31.1 h -8 z m 12.2,0 H 86.86275 v 6.06666 h -10.3 v 25.03334 H 68.529417 V 212.0343 H 58.196083 Z m 104.900007,3.86666 c 3.696,0 7.208,1.36667 9.8,3.76667 1.824,1.68 2.688,3.07867 3.6,5.76667 h -7.2 c -1.296,-2.448 -3.32,-3.66667 -6.2,-3.66667 -4.416,0 -7.56667,3.37733 -7.56667,8.03333 0,4.656 3.31733,8.1 7.73333,8.1 2.64,0 4.44934,-1.052 6.03334,-3.5 h 7.2 c -2.208,5.95199 -7.00802,9.36667 -13.2,9.36667 -7.87199,0 -14.2,-6.20534 -14.2,-13.93333 0,-7.82399 6.12801,-13.93334 14,-13.93334 z m 30.26666,0 c 3.84,0 6.492,1.272 8.7,4.2 v -3.56666 h 5.86667 v 26.6 h -5.86667 v -3.46667 c -2.544,2.88 -5.08933,4.1 -8.83333,4.1 -7.77599,0 -13.4,-5.81734 -13.4,-13.83333 0,-8.11199 5.66134,-14.03334 13.53333,-14.03334 z m -60.93333,0.56667 h 5.13333 v 8.33333 h 8.2 v 5.03334 h -8.2 v 8.3 h -5.13333 v -8.3 h -8.2 v -5.03334 h 8.2 z m 61.63333,5.3 c -4.56,0 -7.8,3.452 -7.8,8.3 0,4.656 3.21067,7.83333 7.86667,7.83333 2.448,0 4.53733,-0.864 5.83333,-2.4 1.152,-1.344 1.9,-3.54666 1.9,-5.46666 0,-4.848 -3.24,-8.26667 -7.8,-8.26667 z"
+       id="rect2824"
+       inkscape:export-filename="/home/ary/Documentos/Consultoria/ITG_CAT/SITE/4_col_web_site_design/images/logo003.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5195024"
+       id="rect7919"
+       width="431.69534"
+       height="4.9507303"
+       x="-116.47766"
+       y="183.03865"
+       inkscape:export-filename="/home/ary/Documentos/Consultoria/ITG_CAT/SITE/4_col_web_site_design/images/logo003.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.52008152"
+       id="rect7919-1"
+       width="431.85989"
+       height="5.2294273"
+       x="-116.47766"
+       y="190.25148"
+       inkscape:export-filename="/home/ary/Documentos/Consultoria/ITG_CAT/SITE/4_col_web_site_design/images/logo003.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.52959871"
+       id="rect7919-13"
+       width="434.56375"
+       height="4.9836254"
+       x="-116.47766"
+       y="245.64192"
+       inkscape:export-filename="/home/ary/Documentos/Consultoria/ITG_CAT/SITE/4_col_web_site_design/images/logo003.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.53017771"
+       id="rect7919-1-4"
+       width="434.72824"
+       height="5.4346919"
+       x="-116.47766"
+       y="252.70912"
+       inkscape:export-filename="/home/ary/Documentos/Consultoria/ITG_CAT/SITE/4_col_web_site_design/images/logo003.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g3222"
+       inkscape:export-filename="/home/ary/Documentos/Consultoria/ITG_CAT/SITE/4_col_web_site_design/images/logo003.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         y="246.43166"
+         x="26.652018"
+         height="14.668438"
+         width="3.0704231"
+         id="rect2933"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="253.53224"
+         x="44.416615"
+         height="7.5678515"
+         width="3.0704231"
+         id="rect2933-6"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="253.53224"
+         x="62.181202"
+         height="7.5678515"
+         width="3.0704231"
+         id="rect2933-9"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="253.53224"
+         x="79.945793"
+         height="7.5678458"
+         width="3.0704231"
+         id="rect2933-1"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="246.43166"
+         x="97.710381"
+         height="14.668431"
+         width="3.0704231"
+         id="rect2933-1-9"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="253.53224"
+         x="115.47497"
+         height="7.5678406"
+         width="3.0704231"
+         id="rect2933-1-93"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="253.53224"
+         x="133.23956"
+         height="7.5678458"
+         width="3.0704231"
+         id="rect2933-1-8"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="253.53224"
+         x="151.00415"
+         height="7.5678406"
+         width="3.0704231"
+         id="rect2933-1-5"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="246.95149"
+         x="168.98807"
+         height="14.148597"
+         width="3.0704231"
+         id="rect2933-1-4"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="253.53224"
+         x="186.53337"
+         height="7.5678406"
+         width="3.0704231"
+         id="rect2933-1-52"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="253.53224"
+         x="204.29793"
+         height="7.5678401"
+         width="3.0704231"
+         id="rect2933-1-0"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="253.53224"
+         x="222.11382"
+         height="7.5678458"
+         width="3.0704231"
+         id="rect2933-1-00"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="246.43166"
+         x="239.87843"
+         height="14.668431"
+         width="3.0704231"
+         id="rect2933-1-9-5"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="253.53224"
+         x="257.64301"
+         height="7.5678406"
+         width="3.0704231"
+         id="rect2933-1-93-0"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="253.53224"
+         x="275.40759"
+         height="7.5678458"
+         width="3.0704231"
+         id="rect2933-1-8-3"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="253.53224"
+         x="293.17221"
+         height="7.5678406"
+         width="3.0704231"
+         id="rect2933-1-5-1"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+    </g>
+    <g
+       id="g3240"
+       inkscape:export-filename="/home/ary/Documentos/Consultoria/ITG_CAT/SITE/4_col_web_site_design/images/logo003.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         y="187.06671"
+         x="26.652018"
+         height="7.6342611"
+         width="3.0704231"
+         id="rect2933-2"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="187.06671"
+         x="97.710381"
+         height="7.6342578"
+         width="3.0704231"
+         id="rect2933-1-9-1"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="187.33727"
+         x="168.98808"
+         height="7.3637075"
+         width="3.0704231"
+         id="rect2933-1-4-9"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+      <rect
+         y="187.06671"
+         x="239.87845"
+         height="7.6342578"
+         width="3.0704231"
+         id="rect2933-1-9-5-7"
+         style="fill:#fdfcfe;fill-opacity:0.99261995;stroke:none;stroke-width:1.06666672" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-67.246994"
+       y="51.821999"
+       id="text1010"><tspan
+         sodipodi:role="line"
+         id="tspan1008"
+         x="-67.246994"
+         y="51.821999"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1">Clientes consultoria</tspan></text>
+    <g
+       id="g1409"
+       transform="translate(-114.7109,-2.5991876)">
+      <circle
+         r="32.936565"
+         cy="222.03636"
+         cx="384.77707"
+         id="path1026"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/ary/Documentos/Consultoria/ITG_CAT/SITE/4_col_web_site_design/images/logo003.png"
+         transform="matrix(0,0.07718038,0.07718038,0,360.85725,151.30157)"
+         id="g7505-3"
+         style="display:inline">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:7.55905485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 916.48675,272.12583 -32.73167,18.89764 v 37.79527 l 32.73167,18.89764 32.73167,-18.89764 v -37.79527 z"
+           id="path2905-67"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ccffff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 949.21842,215.43293 -32.73167,18.89763 v 37.79527 l 32.73167,18.89765 32.73167,-18.89765 v -37.79527 z"
+           id="path2905-6-53"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#99ffff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 981.95009,158.74001 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73161,-18.89764 v -37.79528 z"
+           id="path2905-3-5"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#66ffff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1014.6817,102.04709 -32.73161,18.89764 V 158.74 l 32.73161,18.89764 32.7317,-18.89764 v -37.79527 z"
+           id="path2905-5-6"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#33ffff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1047.4134,45.354189 -32.7317,18.897632 v 37.795269 l 32.7317,18.89765 32.7317,-18.89765 V 64.251821 Z"
+           id="path2905-4-29"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 1080.1451,-11.338729 1047.4134,7.5589036 V 45.354178 l 32.7317,18.897643 32.7317,-18.897643 V 7.5589036 Z"
+           id="path2905-1-12"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffcc;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 851.02341,272.12583 -32.73167,18.89764 v 37.79527 l 32.73167,18.89764 32.73167,-18.89764 v -37.79527 z"
+           id="path2905-43-7"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ccffcc;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 883.75508,215.43293 -32.73167,18.89763 v 37.79527 l 32.73167,18.89765 32.73167,-18.89765 v -37.79527 z"
+           id="path2905-6-1-0"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#99ffcc;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 916.48675,158.74001 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-3-9-9"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#66ffcc;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 949.21842,102.04709 -32.73167,18.89764 V 158.74 l 32.73167,18.89764 32.73167,-18.89764 v -37.79527 z"
+           id="path2905-5-1-3"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#33ffcc;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 981.95009,45.354189 -32.73167,18.897632 v 37.795269 l 32.73167,18.89765 32.73161,-18.89765 V 64.251821 Z"
+           id="path2905-4-0-6"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#00ffcc;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 1014.6817,-11.338729 981.95009,7.5589036 V 45.354178 l 32.73161,18.897643 32.7317,-18.897643 V 7.5589036 Z"
+           id="path2905-1-9-0"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffff99;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 785.56009,272.12583 -32.73167,18.89764 v 37.79527 l 32.73167,18.89764 32.73166,-18.89764 v -37.79527 z"
+           id="path2905-8-6"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ccff99;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 818.29175,215.43293 -32.73166,18.89763 v 37.79527 l 32.73166,18.89765 32.73167,-18.89765 v -37.79527 z"
+           id="path2905-6-7-2"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#99ff99;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 851.02342,158.74001 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-3-3-6"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#66ff99;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 883.75509,102.04709 -32.73167,18.89764 V 158.74 l 32.73167,18.89764 32.73167,-18.89764 v -37.79527 z"
+           id="path2905-5-3-1"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#33ff99;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 916.48676,45.354189 -32.73167,18.897632 v 37.795269 l 32.73167,18.89765 32.73167,-18.89765 V 64.251821 Z"
+           id="path2905-4-5-8"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#00ff99;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 949.21843,-11.338729 916.48676,7.5589036 V 45.354178 L 949.21843,64.251821 981.9501,45.354178 V 7.5589036 Z"
+           id="path2905-1-0-7"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffff66;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 720.09675,272.12583 -32.73167,18.89764 v 37.79527 l 32.73167,18.89764 32.73167,-18.89764 v -37.79527 z"
+           id="path2905-51-9"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ccff66;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 752.82842,215.43293 -32.73167,18.89763 v 37.79527 l 32.73167,18.89765 32.73167,-18.89765 v -37.79527 z"
+           id="path2905-6-6-2"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#99ff66;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 785.56009,158.74001 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73166,-18.89764 v -37.79528 z"
+           id="path2905-3-1-0"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#66ff66;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 818.29175,102.04709 -32.73166,18.89764 V 158.74 l 32.73166,18.89764 32.73167,-18.89764 v -37.79527 z"
+           id="path2905-5-37-2"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#33ff66;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 851.02342,45.354189 -32.73167,18.897632 v 37.795269 l 32.73167,18.89765 32.73167,-18.89765 V 64.251821 Z"
+           id="path2905-4-7-3"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#00ff66;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 883.75509,-11.338729 851.02342,7.5589036 V 45.354178 l 32.73167,18.897643 32.73167,-18.897643 V 7.5589036 Z"
+           id="path2905-1-1-7"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffff33;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 654.63341,272.12583 -32.73167,18.89764 v 37.79527 l 32.73167,18.89764 32.73167,-18.89764 v -37.79527 z"
+           id="path2905-64-5"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ccff33;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 687.36508,215.43293 -32.73167,18.89763 v 37.79527 l 32.73167,18.89765 32.73167,-18.89765 v -37.79527 z"
+           id="path2905-6-3-9"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#99ff33;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 720.09675,158.74001 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-3-4-2"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#66ff33;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 752.82842,102.04709 -32.73167,18.89764 V 158.74 l 32.73167,18.89764 32.73167,-18.89764 v -37.79527 z"
+           id="path2905-5-7-2"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#33ff33;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 785.56009,45.354189 -32.73167,18.897632 v 37.795269 l 32.73167,18.89765 32.73166,-18.89765 V 64.251821 Z"
+           id="path2905-4-70-8"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#00ff33;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 818.29175,-11.338729 785.56009,7.5589036 V 45.354178 l 32.73166,18.897643 32.73167,-18.897643 V 7.5589036 Z"
+           id="path2905-1-7-9"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 589.17007,272.12582 -32.73167,18.89764 v 37.79527 l 32.73167,18.89764 32.73167,-18.89764 v -37.79527 z"
+           id="path2905-437-7"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ccff00;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 621.90174,215.43292 -32.73167,18.89763 v 37.79527 l 32.73167,18.89765 32.73167,-18.89765 v -37.79527 z"
+           id="path2905-6-13-3"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#99ff00;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 654.63341,158.74 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-3-96-6"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#66ff00;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 687.36508,102.04708 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-5-4-1"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#33ff00;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 720.09675,45.354178 687.36508,64.25181 v 37.79527 l 32.73167,18.89765 32.73167,-18.89765 V 64.25181 Z"
+           id="path2905-4-2-2"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 752.82842,-11.338739 720.09675,7.5588929 V 45.354167 L 752.82842,64.25181 785.56009,45.354167 V 7.5588929 Z"
+           id="path2905-1-02-9"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffccff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 949.21842,328.81875 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-89-31"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ccccff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 981.95009,272.12585 -32.73167,18.89763 v 37.79527 l 32.73167,18.89764 32.73161,-18.89764 v -37.79527 z"
+           id="path2905-6-5-9"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#99ccff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1014.6817,215.43293 -32.73161,18.89763 v 37.79527 l 32.73161,18.89765 32.7317,-18.89765 v -37.79527 z"
+           id="path2905-3-0-4"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#66ccff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1047.4134,158.74001 -32.7317,18.89763 v 37.79528 l 32.7317,18.89764 32.7317,-18.89764 v -37.79528 z"
+           id="path2905-5-2-7"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#33ccff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1080.1451,102.0471 -32.7317,18.89764 v 37.79527 l 32.7317,18.89764 32.7317,-18.89764 v -37.79527 z"
+           id="path2905-4-72-8"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#00ccff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1112.8768,45.354189 -32.7317,18.897632 v 37.795269 l 32.7317,18.89765 32.7316,-18.89765 V 64.251821 Z"
+           id="path2905-1-8-4"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff99ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 981.95009,385.51166 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73161,-18.89764 v -37.79528 z"
+           id="path2905-0-5"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#cc99ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1014.6817,328.81875 -32.73161,18.89763 v 37.79528 l 32.73161,18.89764 32.7317,-18.89764 v -37.79528 z"
+           id="path2905-6-9-0"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#9999ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1047.4134,272.12583 -32.7317,18.89764 v 37.79527 l 32.7317,18.89764 32.7317,-18.89764 v -37.79527 z"
+           id="path2905-3-45-3"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#6699ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1080.1451,215.43292 -32.7317,18.89763 v 37.79527 l 32.7317,18.89765 32.7317,-18.89765 v -37.79527 z"
+           id="path2905-5-42-6"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#3399ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1112.8768,158.74001 -32.7317,18.89763 v 37.79528 l 32.7317,18.89764 32.7316,-18.89764 v -37.79528 z"
+           id="path2905-4-23-1"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#0099ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1145.6084,102.04709 -32.7316,18.89764 V 158.74 l 32.7316,18.89764 32.7317,-18.89764 v -37.79527 z"
+           id="path2905-1-96-0"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff66ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1014.6817,442.20458 -32.73161,18.89763 v 37.79527 l 32.73161,18.89765 32.7317,-18.89765 v -37.79527 z"
+           id="path2905-53-6"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#cc66ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1047.4134,385.51167 -32.7317,18.89763 v 37.79528 l 32.7317,18.89764 32.7317,-18.89764 V 404.4093 Z"
+           id="path2905-6-51-3"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#9966ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1080.1451,328.81875 -32.7317,18.89763 v 37.79528 l 32.7317,18.89764 32.7317,-18.89764 v -37.79528 z"
+           id="path2905-3-10-2"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#6666ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1112.8768,272.12583 -32.7317,18.89764 v 37.79527 l 32.7317,18.89764 32.7316,-18.89764 v -37.79527 z"
+           id="path2905-5-0-0"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#3366ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1145.6084,215.43293 -32.7316,18.89763 v 37.79527 l 32.7316,18.89765 32.7317,-18.89765 v -37.79527 z"
+           id="path2905-4-708-6"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#0066ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1178.3401,158.74001 -32.7317,18.89763 v 37.79528 l 32.7317,18.89764 32.7317,-18.89764 v -37.79528 z"
+           id="path2905-1-16-1"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff33ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1047.4134,498.89748 -32.7317,18.89763 v 37.79528 l 32.7317,18.89764 32.7317,-18.89764 v -37.79528 z"
+           id="path2905-2-55"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#cc33ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1080.1451,442.20458 -32.7317,18.89763 v 37.79527 l 32.7317,18.89765 32.7317,-18.89765 v -37.79527 z"
+           id="path2905-6-4-4"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#9933ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1112.8768,385.51166 -32.7317,18.89763 v 37.79528 l 32.7317,18.89764 32.7316,-18.89764 v -37.79528 z"
+           id="path2905-3-2-7"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#6633ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1145.6084,328.81874 -32.7316,18.89763 v 37.79528 l 32.7316,18.89764 32.7317,-18.89764 v -37.79528 z"
+           id="path2905-5-5-6"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#3333ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1178.3401,272.12583 -32.7317,18.89764 v 37.79527 l 32.7317,18.89764 32.7317,-18.89764 v -37.79527 z"
+           id="path2905-4-50-5"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#0033ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1211.0718,215.43292 -32.7317,18.89763 v 37.79527 l 32.7317,18.89765 32.7316,-18.89765 v -37.79527 z"
+           id="path2905-1-5-6"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1080.1451,555.59039 -32.7317,18.89763 v 37.79528 l 32.7317,18.89764 32.7317,-18.89764 v -37.79528 z"
+           id="path2905-25-9"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#cc00ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1112.8768,498.89748 -32.7317,18.89763 v 37.79528 l 32.7317,18.89764 32.7316,-18.89764 v -37.79528 z"
+           id="path2905-6-132-3"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#9900ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1145.6084,442.20457 -32.7316,18.89763 v 37.79527 l 32.7316,18.89764 32.7317,-18.89764 V 461.1022 Z"
+           id="path2905-3-6-7"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#6600ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1178.3401,385.51165 -32.7317,18.89763 v 37.79527 l 32.7317,18.89765 32.7317,-18.89765 v -37.79527 z"
+           id="path2905-5-06-4"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#3300ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1211.0718,328.81874 -32.7317,18.89763 v 37.79528 l 32.7317,18.89764 32.7316,-18.89764 v -37.79528 z"
+           id="path2905-4-9-5"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1243.8034,272.12582 -32.7316,18.89764 v 37.79527 l 32.7316,18.89764 32.7317,-18.89764 v -37.79527 z"
+           id="path2905-1-6-2"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffcccc;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 883.75508,328.81875 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-89-4-5"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff99cc;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 916.48675,385.51166 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-0-1-4"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff66cc;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 949.21842,442.20458 -32.73167,18.89763 v 37.79527 l 32.73167,18.89765 32.73167,-18.89765 v -37.79527 z"
+           id="path2905-53-9-7"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff33cc;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 981.95009,498.89748 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73161,-18.89764 v -37.79528 z"
+           id="path2905-2-6-4"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff00cc;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1014.6817,555.59039 -32.73161,18.89763 v 37.79528 l 32.73161,18.89764 32.7317,-18.89764 v -37.79528 z"
+           id="path2905-25-8-4"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffcc99;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 818.29174,328.81875 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-89-1-3"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff9999;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 851.02341,385.51166 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-0-6-0"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff6699;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 883.75508,442.20458 -32.73167,18.89763 v 37.79527 l 32.73167,18.89765 32.73167,-18.89765 v -37.79527 z"
+           id="path2905-53-4-7"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff3399;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 916.48675,498.89748 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-2-5-8"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff0099;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 949.21842,555.59039 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-25-83-6"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffcc66;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 752.82841,328.81875 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73166,-18.89764 v -37.79528 z"
+           id="path2905-89-9-8"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff9966;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 785.56007,385.51166 -32.73166,18.89763 v 37.79528 l 32.73166,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-0-69-8"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff6666;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 818.29174,442.20458 -32.73167,18.89763 v 37.79527 l 32.73167,18.89765 32.73167,-18.89765 v -37.79527 z"
+           id="path2905-53-42-4"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff3366;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 851.02341,498.89748 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-2-0-3"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff0066;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 883.75508,555.59039 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-25-2-1"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffcc33;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 687.36507,328.81875 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-89-0-4"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff9933;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 720.09674,385.51166 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-0-14-9"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff6633;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 752.82841,442.20458 -32.73167,18.89763 v 37.79527 l 32.73167,18.89765 32.73166,-18.89765 v -37.79527 z"
+           id="path2905-53-8-2"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff3333;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 785.56007,498.89748 -32.73166,18.89763 v 37.79528 l 32.73166,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-2-66-0"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff0033;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 818.29174,555.59039 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-25-6-6"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 621.90173,328.81875 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-89-3-8"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff9900;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 654.6334,385.51166 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-0-0-9"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff6600;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 687.36507,442.20458 -32.73167,18.89763 v 37.79527 l 32.73167,18.89765 32.73167,-18.89765 v -37.79527 z"
+           id="path2905-53-86-2"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff3300;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 720.09674,498.89748 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73167,-18.89764 v -37.79528 z"
+           id="path2905-2-69-6"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 752.82841,555.59039 -32.73167,18.89763 v 37.79528 l 32.73167,18.89764 32.73166,-18.89764 v -37.79528 z"
+           id="path2905-25-7-6"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           inkscape:export-filename="/home/ary/Documentos/Consultoria/CAT Consultoria Tecnica/clientes_CAT/Impressão-Amparo/imagens/gamut_20.png" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="173.87639"
+       y="275.06967"
+       id="text1010-4"><tspan
+         sodipodi:role="line"
+         id="tspan1008-9"
+         x="173.87639"
+         y="275.06967"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1">...a cor, mais fácil</tspan></text>
+  </g>
+</svg>
